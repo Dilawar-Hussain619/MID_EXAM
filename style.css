@@ -1,0 +1,70 @@
+#topmenu{
+    display: inline;
+    width: 70%;
+    color: rgb(46, 46, 218);
+}
+#topmenu ul{
+
+    padding-top: 50px;
+    font-size: large;
+    margin-left: 2px;
+}
+
+#topmenu li {
+    padding: 5px;
+    display: inline;
+}
+
+#topmenu li a {
+    text-decoration: none;
+}
+
+#topmenu li a:hover{
+    color: orangered;
+}
+
+#topmenu li:hover  {
+    border-bottom: 5px solid orangered;
+}
+
+body{
+    margin: 0px;
+}
+
+.header{
+    border-top: 2px solid white;
+    height: 150px;
+    background-color: blue;
+}
+
+.logo{
+    width: 30%;
+    margin-left: 50px;
+    display: inline;
+    float: left;
+
+}
+.logo img{
+    width: 150px;
+    height: 150px;
+}
+.banner img{
+    width: 100%;
+    vertical-align: middle;
+}
+.banner{
+    width: 1500px;
+    height: 400px;
+    
+
+}
+.topbar{
+    color: blue;
+    display: inline;
+    float: left;
+    width: 30%;
+}
+.section h2{
+    font-size: larger;
+    font-style: bold   ;
+}
