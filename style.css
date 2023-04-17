@@ -49,7 +49,8 @@ body{
     height: 150px;
 }
 .banner img{
-    width: 100%;
+    padding-top: 10px;
+    width: 50%;
     vertical-align: middle;
 }
 .banner{
@@ -64,7 +65,9 @@ body{
     float: left;
     width: 30%;
 }
-.section h2{
+.section-heading{
     font-size: larger;
-    font-style: bold   ;
+    font-style: bold  ;
+    align-content: center;
+    padding-left: 800px;
 }
